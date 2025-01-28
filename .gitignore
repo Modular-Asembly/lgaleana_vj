@@ -1,0 +1,10 @@
+__pycache__
+.vscode
+venv
+.env
+config.json
+conversation.json
+conversation_architecture.json
+conversation_brainstorm.json
+conversation_code.json
+test.db
